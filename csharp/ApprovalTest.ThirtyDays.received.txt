@@ -1,0 +1,373 @@
+﻿OMGHAI!
+-------- day 0 --------
+name, sellIn, quality
++25 Strength Gloves, 10, 20
+Old Camembert, 2, 0
+Superior Elixir of QuickFix, 5, 7
+Thunderfury, Blessed Blade of the Windseeker, 0, 80
+Thunderfury, Blessed Blade of the Windseeker, -1, 80
+VIP passes to Yesterdayland concert, 15, 20
+VIP passes to Yesterdayland concert, 10, 49
+VIP passes to Yesterdayland concert, 5, 49
+Conjured Mana Cake, 3, 6
+
+-------- day 1 --------
+name, sellIn, quality
++25 Strength Gloves, 9, 19
+Old Camembert, 1, 1
+Superior Elixir of QuickFix, 4, 6
+Thunderfury, Blessed Blade of the Windseeker, 0, 80
+Thunderfury, Blessed Blade of the Windseeker, -1, 80
+VIP passes to Yesterdayland concert, 14, 21
+VIP passes to Yesterdayland concert, 9, 50
+VIP passes to Yesterdayland concert, 4, 50
+Conjured Mana Cake, 2, 4
+
+-------- day 2 --------
+name, sellIn, quality
++25 Strength Gloves, 8, 18
+Old Camembert, 0, 2
+Superior Elixir of QuickFix, 3, 5
+Thunderfury, Blessed Blade of the Windseeker, 0, 80
+Thunderfury, Blessed Blade of the Windseeker, -1, 80
+VIP passes to Yesterdayland concert, 13, 22
+VIP passes to Yesterdayland concert, 8, 50
+VIP passes to Yesterdayland concert, 3, 50
+Conjured Mana Cake, 1, 2
+
+-------- day 3 --------
+name, sellIn, quality
++25 Strength Gloves, 7, 17
+Old Camembert, -1, 3
+Superior Elixir of QuickFix, 2, 4
+Thunderfury, Blessed Blade of the Windseeker, 0, 80
+Thunderfury, Blessed Blade of the Windseeker, -1, 80
+VIP passes to Yesterdayland concert, 12, 23
+VIP passes to Yesterdayland concert, 7, 50
+VIP passes to Yesterdayland concert, 2, 50
+Conjured Mana Cake, 0, 0
+
+-------- day 4 --------
+name, sellIn, quality
++25 Strength Gloves, 6, 16
+Old Camembert, -2, 4
+Superior Elixir of QuickFix, 1, 3
+Thunderfury, Blessed Blade of the Windseeker, 0, 80
+Thunderfury, Blessed Blade of the Windseeker, -1, 80
+VIP passes to Yesterdayland concert, 11, 24
+VIP passes to Yesterdayland concert, 6, 50
+VIP passes to Yesterdayland concert, 1, 50
+Conjured Mana Cake, -1, 0
+
+-------- day 5 --------
+name, sellIn, quality
++25 Strength Gloves, 5, 15
+Old Camembert, -3, 5
+Superior Elixir of QuickFix, 0, 2
+Thunderfury, Blessed Blade of the Windseeker, 0, 80
+Thunderfury, Blessed Blade of the Windseeker, -1, 80
+VIP passes to Yesterdayland concert, 10, 27
+VIP passes to Yesterdayland concert, 5, 50
+VIP passes to Yesterdayland concert, 0, 50
+Conjured Mana Cake, -2, 0
+
+-------- day 6 --------
+name, sellIn, quality
++25 Strength Gloves, 4, 14
+Old Camembert, -4, 6
+Superior Elixir of QuickFix, -1, 0
+Thunderfury, Blessed Blade of the Windseeker, 0, 80
+Thunderfury, Blessed Blade of the Windseeker, -1, 80
+VIP passes to Yesterdayland concert, 9, 30
+VIP passes to Yesterdayland concert, 4, 50
+VIP passes to Yesterdayland concert, -1, 50
+Conjured Mana Cake, -3, 0
+
+-------- day 7 --------
+name, sellIn, quality
++25 Strength Gloves, 3, 13
+Old Camembert, -5, 7
+Superior Elixir of QuickFix, -2, 0
+Thunderfury, Blessed Blade of the Windseeker, 0, 80
+Thunderfury, Blessed Blade of the Windseeker, -1, 80
+VIP passes to Yesterdayland concert, 8, 33
+VIP passes to Yesterdayland concert, 3, 50
+VIP passes to Yesterdayland concert, -2, 50
+Conjured Mana Cake, -4, 0
+
+-------- day 8 --------
+name, sellIn, quality
++25 Strength Gloves, 2, 12
+Old Camembert, -6, 8
+Superior Elixir of QuickFix, -3, 0
+Thunderfury, Blessed Blade of the Windseeker, 0, 80
+Thunderfury, Blessed Blade of the Windseeker, -1, 80
+VIP passes to Yesterdayland concert, 7, 36
+VIP passes to Yesterdayland concert, 2, 50
+VIP passes to Yesterdayland concert, -3, 50
+Conjured Mana Cake, -5, 0
+
+-------- day 9 --------
+name, sellIn, quality
++25 Strength Gloves, 1, 11
+Old Camembert, -7, 9
+Superior Elixir of QuickFix, -4, 0
+Thunderfury, Blessed Blade of the Windseeker, 0, 80
+Thunderfury, Blessed Blade of the Windseeker, -1, 80
+VIP passes to Yesterdayland concert, 6, 39
+VIP passes to Yesterdayland concert, 1, 50
+VIP passes to Yesterdayland concert, -4, 50
+Conjured Mana Cake, -6, 0
+
+-------- day 10 --------
+name, sellIn, quality
++25 Strength Gloves, 0, 10
+Old Camembert, -8, 10
+Superior Elixir of QuickFix, -5, 0
+Thunderfury, Blessed Blade of the Windseeker, 0, 80
+Thunderfury, Blessed Blade of the Windseeker, -1, 80
+VIP passes to Yesterdayland concert, 5, 42
+VIP passes to Yesterdayland concert, 0, 50
+VIP passes to Yesterdayland concert, -5, 50
+Conjured Mana Cake, -7, 0
+
+-------- day 11 --------
+name, sellIn, quality
++25 Strength Gloves, -1, 7
+Old Camembert, -9, 11
+Superior Elixir of QuickFix, -6, 0
+Thunderfury, Blessed Blade of the Windseeker, 0, 80
+Thunderfury, Blessed Blade of the Windseeker, -1, 80
+VIP passes to Yesterdayland concert, 4, 45
+VIP passes to Yesterdayland concert, -1, 50
+VIP passes to Yesterdayland concert, -6, 50
+Conjured Mana Cake, -8, 0
+
+-------- day 12 --------
+name, sellIn, quality
++25 Strength Gloves, -2, 4
+Old Camembert, -10, 12
+Superior Elixir of QuickFix, -7, 0
+Thunderfury, Blessed Blade of the Windseeker, 0, 80
+Thunderfury, Blessed Blade of the Windseeker, -1, 80
+VIP passes to Yesterdayland concert, 3, 48
+VIP passes to Yesterdayland concert, -2, 50
+VIP passes to Yesterdayland concert, -7, 50
+Conjured Mana Cake, -9, 0
+
+-------- day 13 --------
+name, sellIn, quality
++25 Strength Gloves, -3, 1
+Old Camembert, -11, 13
+Superior Elixir of QuickFix, -8, 0
+Thunderfury, Blessed Blade of the Windseeker, 0, 80
+Thunderfury, Blessed Blade of the Windseeker, -1, 80
+VIP passes to Yesterdayland concert, 2, 50
+VIP passes to Yesterdayland concert, -3, 50
+VIP passes to Yesterdayland concert, -8, 50
+Conjured Mana Cake, -10, 0
+
+-------- day 14 --------
+name, sellIn, quality
++25 Strength Gloves, -4, 0
+Old Camembert, -12, 14
+Superior Elixir of QuickFix, -9, 0
+Thunderfury, Blessed Blade of the Windseeker, 0, 80
+Thunderfury, Blessed Blade of the Windseeker, -1, 80
+VIP passes to Yesterdayland concert, 1, 50
+VIP passes to Yesterdayland concert, -4, 50
+VIP passes to Yesterdayland concert, -9, 50
+Conjured Mana Cake, -11, 0
+
+-------- day 15 --------
+name, sellIn, quality
++25 Strength Gloves, -5, 0
+Old Camembert, -13, 15
+Superior Elixir of QuickFix, -10, 0
+Thunderfury, Blessed Blade of the Windseeker, 0, 80
+Thunderfury, Blessed Blade of the Windseeker, -1, 80
+VIP passes to Yesterdayland concert, 0, 50
+VIP passes to Yesterdayland concert, -5, 50
+VIP passes to Yesterdayland concert, -10, 50
+Conjured Mana Cake, -12, 0
+
+-------- day 16 --------
+name, sellIn, quality
++25 Strength Gloves, -6, 0
+Old Camembert, -14, 16
+Superior Elixir of QuickFix, -11, 0
+Thunderfury, Blessed Blade of the Windseeker, 0, 80
+Thunderfury, Blessed Blade of the Windseeker, -1, 80
+VIP passes to Yesterdayland concert, -1, 50
+VIP passes to Yesterdayland concert, -6, 50
+VIP passes to Yesterdayland concert, -11, 50
+Conjured Mana Cake, -13, 0
+
+-------- day 17 --------
+name, sellIn, quality
++25 Strength Gloves, -7, 0
+Old Camembert, -15, 17
+Superior Elixir of QuickFix, -12, 0
+Thunderfury, Blessed Blade of the Windseeker, 0, 80
+Thunderfury, Blessed Blade of the Windseeker, -1, 80
+VIP passes to Yesterdayland concert, -2, 50
+VIP passes to Yesterdayland concert, -7, 50
+VIP passes to Yesterdayland concert, -12, 50
+Conjured Mana Cake, -14, 0
+
+-------- day 18 --------
+name, sellIn, quality
++25 Strength Gloves, -8, 0
+Old Camembert, -16, 18
+Superior Elixir of QuickFix, -13, 0
+Thunderfury, Blessed Blade of the Windseeker, 0, 80
+Thunderfury, Blessed Blade of the Windseeker, -1, 80
+VIP passes to Yesterdayland concert, -3, 50
+VIP passes to Yesterdayland concert, -8, 50
+VIP passes to Yesterdayland concert, -13, 50
+Conjured Mana Cake, -15, 0
+
+-------- day 19 --------
+name, sellIn, quality
++25 Strength Gloves, -9, 0
+Old Camembert, -17, 19
+Superior Elixir of QuickFix, -14, 0
+Thunderfury, Blessed Blade of the Windseeker, 0, 80
+Thunderfury, Blessed Blade of the Windseeker, -1, 80
+VIP passes to Yesterdayland concert, -4, 50
+VIP passes to Yesterdayland concert, -9, 50
+VIP passes to Yesterdayland concert, -14, 50
+Conjured Mana Cake, -16, 0
+
+-------- day 20 --------
+name, sellIn, quality
++25 Strength Gloves, -10, 0
+Old Camembert, -18, 20
+Superior Elixir of QuickFix, -15, 0
+Thunderfury, Blessed Blade of the Windseeker, 0, 80
+Thunderfury, Blessed Blade of the Windseeker, -1, 80
+VIP passes to Yesterdayland concert, -5, 50
+VIP passes to Yesterdayland concert, -10, 50
+VIP passes to Yesterdayland concert, -15, 50
+Conjured Mana Cake, -17, 0
+
+-------- day 21 --------
+name, sellIn, quality
++25 Strength Gloves, -11, 0
+Old Camembert, -19, 21
+Superior Elixir of QuickFix, -16, 0
+Thunderfury, Blessed Blade of the Windseeker, 0, 80
+Thunderfury, Blessed Blade of the Windseeker, -1, 80
+VIP passes to Yesterdayland concert, -6, 50
+VIP passes to Yesterdayland concert, -11, 50
+VIP passes to Yesterdayland concert, -16, 50
+Conjured Mana Cake, -18, 0
+
+-------- day 22 --------
+name, sellIn, quality
++25 Strength Gloves, -12, 0
+Old Camembert, -20, 22
+Superior Elixir of QuickFix, -17, 0
+Thunderfury, Blessed Blade of the Windseeker, 0, 80
+Thunderfury, Blessed Blade of the Windseeker, -1, 80
+VIP passes to Yesterdayland concert, -7, 50
+VIP passes to Yesterdayland concert, -12, 50
+VIP passes to Yesterdayland concert, -17, 50
+Conjured Mana Cake, -19, 0
+
+-------- day 23 --------
+name, sellIn, quality
++25 Strength Gloves, -13, 0
+Old Camembert, -21, 23
+Superior Elixir of QuickFix, -18, 0
+Thunderfury, Blessed Blade of the Windseeker, 0, 80
+Thunderfury, Blessed Blade of the Windseeker, -1, 80
+VIP passes to Yesterdayland concert, -8, 50
+VIP passes to Yesterdayland concert, -13, 50
+VIP passes to Yesterdayland concert, -18, 50
+Conjured Mana Cake, -20, 0
+
+-------- day 24 --------
+name, sellIn, quality
++25 Strength Gloves, -14, 0
+Old Camembert, -22, 24
+Superior Elixir of QuickFix, -19, 0
+Thunderfury, Blessed Blade of the Windseeker, 0, 80
+Thunderfury, Blessed Blade of the Windseeker, -1, 80
+VIP passes to Yesterdayland concert, -9, 50
+VIP passes to Yesterdayland concert, -14, 50
+VIP passes to Yesterdayland concert, -19, 50
+Conjured Mana Cake, -21, 0
+
+-------- day 25 --------
+name, sellIn, quality
++25 Strength Gloves, -15, 0
+Old Camembert, -23, 25
+Superior Elixir of QuickFix, -20, 0
+Thunderfury, Blessed Blade of the Windseeker, 0, 80
+Thunderfury, Blessed Blade of the Windseeker, -1, 80
+VIP passes to Yesterdayland concert, -10, 50
+VIP passes to Yesterdayland concert, -15, 50
+VIP passes to Yesterdayland concert, -20, 50
+Conjured Mana Cake, -22, 0
+
+-------- day 26 --------
+name, sellIn, quality
++25 Strength Gloves, -16, 0
+Old Camembert, -24, 26
+Superior Elixir of QuickFix, -21, 0
+Thunderfury, Blessed Blade of the Windseeker, 0, 80
+Thunderfury, Blessed Blade of the Windseeker, -1, 80
+VIP passes to Yesterdayland concert, -11, 50
+VIP passes to Yesterdayland concert, -16, 50
+VIP passes to Yesterdayland concert, -21, 50
+Conjured Mana Cake, -23, 0
+
+-------- day 27 --------
+name, sellIn, quality
++25 Strength Gloves, -17, 0
+Old Camembert, -25, 27
+Superior Elixir of QuickFix, -22, 0
+Thunderfury, Blessed Blade of the Windseeker, 0, 80
+Thunderfury, Blessed Blade of the Windseeker, -1, 80
+VIP passes to Yesterdayland concert, -12, 50
+VIP passes to Yesterdayland concert, -17, 50
+VIP passes to Yesterdayland concert, -22, 50
+Conjured Mana Cake, -24, 0
+
+-------- day 28 --------
+name, sellIn, quality
++25 Strength Gloves, -18, 0
+Old Camembert, -26, 28
+Superior Elixir of QuickFix, -23, 0
+Thunderfury, Blessed Blade of the Windseeker, 0, 80
+Thunderfury, Blessed Blade of the Windseeker, -1, 80
+VIP passes to Yesterdayland concert, -13, 50
+VIP passes to Yesterdayland concert, -18, 50
+VIP passes to Yesterdayland concert, -23, 50
+Conjured Mana Cake, -25, 0
+
+-------- day 29 --------
+name, sellIn, quality
++25 Strength Gloves, -19, 0
+Old Camembert, -27, 29
+Superior Elixir of QuickFix, -24, 0
+Thunderfury, Blessed Blade of the Windseeker, 0, 80
+Thunderfury, Blessed Blade of the Windseeker, -1, 80
+VIP passes to Yesterdayland concert, -14, 50
+VIP passes to Yesterdayland concert, -19, 50
+VIP passes to Yesterdayland concert, -24, 50
+Conjured Mana Cake, -26, 0
+
+-------- day 30 --------
+name, sellIn, quality
++25 Strength Gloves, -20, 0
+Old Camembert, -28, 30
+Superior Elixir of QuickFix, -25, 0
+Thunderfury, Blessed Blade of the Windseeker, 0, 80
+Thunderfury, Blessed Blade of the Windseeker, -1, 80
+VIP passes to Yesterdayland concert, -15, 50
+VIP passes to Yesterdayland concert, -20, 50
+VIP passes to Yesterdayland concert, -25, 50
+Conjured Mana Cake, -27, 0
+

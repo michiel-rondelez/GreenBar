@@ -15,7 +15,7 @@ namespace csharp
         {
             for (var i = 0; i < Items.Count; i++)
             {
-                var qualityTemplate = new ConcreteQualityTemplateFactory(Items[i]).CreateQualityTemplate(Items[i].ItemType);
+                var qualityTemplate = new QualityTemplateFactory(Items[i]).CreateQualityTemplate(Items[i].ItemType);
                 Items[i] = qualityTemplate.GetUpdatedItem();
             }
         }
