@@ -12,7 +12,7 @@ namespace csharp
             IList<Item> Items = new List<Item> { new Item { Name = "foo", SellIn = 0, Quality = 0 } };
             GreenBar app = new GreenBar(Items);
             app.UpdateQuality();
-            Assert.AreEqual("fixme", Items[0].Name);
+            Assert.AreEqual("foo", Items[0].Name);
         }
     }
 }
